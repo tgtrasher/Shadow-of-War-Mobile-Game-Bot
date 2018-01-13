@@ -1,0 +1,9 @@
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\bin\Release\SOW Clicker.exe.config
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\bin\Release\SOW Clicker.exe
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\bin\Release\SOW Clicker.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW_Clicker.Form1.resources
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW_Clicker.Properties.Resources.resources
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW Clicker.csproj.GenerateResource.Cache
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW Clicker.exe
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW Clicker.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\SOW Clicker\SOW Clicker\obj\Release\SOW Clicker.csprojResolveAssemblyReference.cache
